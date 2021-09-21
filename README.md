@@ -1,1 +1,5 @@
-# pratica-una-2021-02-uc-usabilidade-desenvolvimento-web-mobile-e-jogos-flutter
+# Prática de Usabilidade e Desenvolvimento Web, Mobile e Jogos (Flutter)
+
+> Eesenvolvimento Web. Renderização do lado cliente vs. do lado servidor. Desenvolvimento Front End Back End e Full Stack. Padrões de troca de dados entre sistemas. Autorização e autenticação. Segurança OAuth JWT CORS. Padrão MVC. Tecnologias para desenvolvimento web e mobile. Desenvolvimento mobile nativo vs. híbrido. React Native. Expo. Promises. Expressões JSX. Componentes e o objeto props . Estado de componentes e seu ciclo de vida. Hooks React. Redux. Manipulação de sensores. Mapas. Firebase. Consumo de Web Services. Usabilidade. Testes de validação e verificação. Interação humano computador. O princípio C.R.A.P. e Engenharia de Usabilidade de Mayhew. Interação Emocional e Social. Heurísticas de Nielsen. Jogos. Tipos de jogos. Jogos casuais. Jogos de raciocínio. Jogos de estratégia. Jogos Beat em up . Jogos de plataforma. Jogos RPG. Roteiro e arte. Efeitos sonoros. OpenGL ES. Matrizes. Renderização. Textura. Trigonometria álgebra linear e física para jogos.
+
+Foram feitos os seguintes exercícios durante o decorrer desta UC:
